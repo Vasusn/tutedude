@@ -14,6 +14,6 @@ This is the first Flutter application, and it simply renders an image on the scr
 
 ## Screenshot
 
-![App Screenshot](screenshot/image_application_screen.png)
+![App Screenshot](screenshort/image_application_screen.png)
 
 
