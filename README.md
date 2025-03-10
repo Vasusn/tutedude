@@ -1,17 +1,19 @@
-# tutedude
+# TuteDude
+## File Structure
 
-A new Flutter project.
+```
+lib/
+│   ├── main.dart
+│   └── image_application/
+│       └── image_application_screen.dart
+```
 
-## Getting Started
+## Image Application
 
-This project is a starting point for a Flutter application.
+This is the first Flutter application, and it simply renders an image on the screen. The main logic is inside `image_application_screen.dart`.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](screenshot/image_application_screen.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tutedude
+
