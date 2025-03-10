@@ -24,3 +24,18 @@ This Flutter app also includes a personal business card UI. The main logic is in
 
 <img src="screenshot/personal_business_card_application.png" alt="Business Card" width="300" height="600">
 
+## Dice Application
+
+The Dice application is a fun dice-rolling app where users can tap on the screen to roll two dice randomly. The main logic is inside `dicee_application_screen.dart`.
+
+## Screenshot
+
+<img src="screenshot/dicee_application.png" alt="Business Card" width="300" height="600">
+
+## Xylophone Application
+
+The Xylophone application is an interactive music app that plays different sounds when tapping on colored bars. The main logic is inside `xylophone_application_screen.dart`. It uses the `audioplayers` package to play `.wav` files.
+
+## Screenshot
+
+<img src="screenshot/xylophone_application.png" alt="Business Card" width="300" height="600">
