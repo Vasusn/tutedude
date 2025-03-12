@@ -1,4 +1,5 @@
 # TuteDude
+
 ## File Structure
 
 ```
@@ -10,7 +11,8 @@ lib/
 
 ## Image Application
 
-This is the first Flutter application, and it simply renders an image on the screen. The main logic is inside `image_application_screen.dart`.
+This is the first Flutter application, and it simply renders an image on the screen. The main logic
+is inside `image_application_screen.dart`.
 
 ## Screenshot
 
@@ -18,7 +20,9 @@ This is the first Flutter application, and it simply renders an image on the scr
 
 ## Personal Business Card Application
 
-This Flutter app also includes a personal business card UI. The main logic is inside `business_card_screen.dart`. It displays contact details, an avatar, and location information in a styled card.
+This Flutter app also includes a personal business card UI. The main logic is inside
+`business_card_screen.dart`. It displays contact details, an avatar, and location information in a
+styled card.
 
 ## Screenshot
 
@@ -26,7 +30,8 @@ This Flutter app also includes a personal business card UI. The main logic is in
 
 ## Dice Application
 
-The Dice application is a fun dice-rolling app where users can tap on the screen to roll two dice randomly. The main logic is inside `dicee_application_screen.dart`.
+The Dice application is a fun dice-rolling app where users can tap on the screen to roll two dice
+randomly. The main logic is inside `dicee_application_screen.dart`.
 
 ## Screenshot
 
@@ -34,8 +39,29 @@ The Dice application is a fun dice-rolling app where users can tap on the screen
 
 ## Xylophone Application
 
-The Xylophone application is an interactive music app that plays different sounds when tapping on colored bars. The main logic is inside `xylophone_application_screen.dart`. It uses the `audioplayers` package to play `.wav` files.
+The Xylophone application is an interactive music app that plays different sounds when tapping on
+colored bars. The main logic is inside `xylophone_application_screen.dart`. It uses the
+`audioplayers` package to play `.wav` files.
 
 ## Screenshot
 
 <img src="screenshot/xylophone_application.png" alt="Business Card" width="300" height="600">
+
+## BMI Calculator
+
+The BMI Calculator app allows users to input their height, weight, and age to calculate their Body
+Mass Index (BMI). The main logic is inside bmi_calculator.dart and second_page.dart. The app
+dynamically updates the UI based on BMI results and displays a corresponding message and image.
+
+### Features:
+
+**Gender selection**
+**Adjustable height, weight, and age**
+**BMI calculation and result display with color-coded feedback**
+**Navigation to a results page**
+## Screenshots
+<div style="display: flex; justify-content: center; gap: 10px;">
+        <img src="screenshot/bmi1.png" alt="BMI" style="width: 300px; height: 600px;">
+        <img src="screenshot/bmi2.png" alt="BMI Card" style="width: 300px; height: 600px;">
+        <img src="screenshot/bmi3.png" alt="BMI" style="width: 300px; height: 600px;">
+</div>

@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.tutedude"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 34
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
