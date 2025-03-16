@@ -8,8 +8,8 @@ import 'package:tutedude/xylophone_application/xylophone_application.dart';
 
 void main() {
   runApp(
-      const MyApp()
-    // ClimaMain()
+      // const MyApp()
+    ClimaMain()
   );
 }
 
